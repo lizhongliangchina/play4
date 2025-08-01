@@ -1,0 +1,23 @@
+{
+  "name": "couple-prank-game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Development server not available in production build'",
+    "build": "echo 'Static files already built and ready for deployment'",
+    "start": "echo 'Static files ready for serving'",
+    "preview": "echo 'Use a static file server to preview'"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.511.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.3.0",
+    "sonner": "^2.0.2",
+    "tailwind-merge": "^3.0.2",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {}
+}
